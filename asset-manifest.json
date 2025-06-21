@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/family-lineage-site/static/css/main.e6c13ad2.css",
+    "main.js": "/family-lineage-site/static/js/main.d1b1eadb.js",
+    "static/js/453.28f6a7e5.chunk.js": "/family-lineage-site/static/js/453.28f6a7e5.chunk.js",
+    "index.html": "/family-lineage-site/index.html",
+    "main.e6c13ad2.css.map": "/family-lineage-site/static/css/main.e6c13ad2.css.map",
+    "main.d1b1eadb.js.map": "/family-lineage-site/static/js/main.d1b1eadb.js.map",
+    "453.28f6a7e5.chunk.js.map": "/family-lineage-site/static/js/453.28f6a7e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d1b1eadb.js"
+  ]
+}

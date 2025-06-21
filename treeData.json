@@ -1,0 +1,52 @@
+{
+  "name": "Chapaji",
+  "birthYear": 1613.0,
+  "deathYear": NaN,
+  "gender": "Male",
+  "notes": NaN,
+  "children": [
+    {
+      "name": "Raghoji",
+      "birthYear": 1638.0,
+      "deathYear": NaN,
+      "gender": "Male",
+      "notes": "From Dawdi-Nimgav",
+      "children": [
+        {
+          "name": "Ganoji",
+          "birthYear": 1682.0,
+          "deathYear": NaN,
+          "gender": "Male",
+          "notes": "From Dawdi-Nimgav",
+          "children": [
+            {
+              "name": "Vitamaji",
+              "birthYear": NaN,
+              "deathYear": 1717.0,
+              "gender": "Male",
+              "notes": "Settled in Chandkhed",
+              "children": [
+                {
+                  "name": "Aauji Dabhade",
+                  "birthYear": NaN,
+                  "deathYear": NaN,
+                  "gender": "Male",
+                  "notes": "Died in a skirmish at Dharatirth",
+                  "children": []
+                },
+                {
+                  "name": "Santaji",
+                  "birthYear": NaN,
+                  "deathYear": 1739.0,
+                  "gender": "Male",
+                  "notes": "Lived in Chandkhed",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
